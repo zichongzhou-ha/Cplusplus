@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int a;
+	cout << "请输入数据：" << endl;
+	cin >> a;
+	cout<<"你输入的数据是；"<<a<<endl;
+	system("pause");
+	return 0;
+}
