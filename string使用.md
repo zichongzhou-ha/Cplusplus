@@ -176,4 +176,4 @@ int main()
     getline(cin,s);//遇到换行停止
 }
 ```
-![alt text](image.png)
+![](./img/image.png)
